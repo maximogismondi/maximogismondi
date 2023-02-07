@@ -9,7 +9,7 @@ On the other side, I'm a gamer, a learner, a frustated content creator and a rea
 Here are my stats:
 
 ## My favorite languajes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApophisXIV&layout=compact&theme=gruvbox)](https://github.com/ApophisXIV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoGismondi&layout=compact&theme=gruvbox)]
 
 ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
