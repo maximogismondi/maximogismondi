@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MaximoGismondi/MaximoGismondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce myself ...
 
-Here are some ideas to get you started:
+I'm Máximo Gismondi, a software/computer technician with knowledge in many areas of IT.  
+Actually, I'm studying Computer Engineer degree at the University of Buenos Aires, Argentina.  
+On the other side, I'm a gamer, a learner, a frustated content creator and a really open guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are my stats:
+
+## My favorite languajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApophisXIV&layout=compact&theme=gruvbox)](https://github.com/ApophisXIV/github-readme-stats)
+
+## Joke of the day
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 🔭 I’m currently working on ...
+  - Chess as a service
+    (https://chess-as-service.web.app)
+  - Self created websites website
+
+## 🌱 I’m currently learning ...
+  - Some React
+  - Automation and DevOps
+  - Clean Code
+
+## 🏅 Projects I'm proud of
+  -  (https://sokodeportes.com.ar)
+
+## 💬 Ask me about ...
+  - Python
+  - JS
+  - Ideas
+
+## 😄 Pronouns: ...
+  - Max
+  - Capoeira
+  
+## 📫 How to reach me: ...
+  - (maximogismondi@gmail.com)
+  - (https://www.linkedin.com/in/maximogismondi/)
