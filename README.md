@@ -24,7 +24,7 @@ Here are my stats:
   - Clean Code
 
 ## 🏅 Projects I'm proud of
-  -  [Soko Deportes Shop]https://sokodeportes.com.ar
+  -  [Soko Deportes Shop](https://sokodeportes.com.ar)
 
 ## 💬 Ask me about ...
   - Python
