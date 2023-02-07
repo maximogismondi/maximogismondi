@@ -15,8 +15,7 @@ Here are my stats:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🔭 I’m currently working on ...
-  - Chess as a service
-    (https://chess-as-service.web.app)
+  - [Chess as a service](https://chess-as-service.web.app)
   - Self created websites website
 
 ## 🌱 I’m currently learning ...
@@ -25,7 +24,7 @@ Here are my stats:
   - Clean Code
 
 ## 🏅 Projects I'm proud of
-  -  (https://sokodeportes.com.ar)
+  -  [Soko Deportes Shop]https://sokodeportes.com.ar
 
 ## 💬 Ask me about ...
   - Python
@@ -37,5 +36,5 @@ Here are my stats:
   - Capoeira
   
 ## 📫 How to reach me: ...
-  - (maximogismondi@gmail.com)
-  - (https://www.linkedin.com/in/maximogismondi/)
+  - maximogismondi@gmail.com
+  - [Linkedin](https://www.linkedin.com/in/maximogismondi/)
