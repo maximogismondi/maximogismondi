@@ -36,5 +36,5 @@ Here are my stats:
   - Capoeira
   
 ## 📫 How to reach me: ...
-  - maximogismondi@gmail.com
+  - <maximogismondi@gmail.com>
   - [Linkedin](https://www.linkedin.com/in/maximogismondi/)
