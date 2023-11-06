@@ -8,7 +8,7 @@ On the other side, I'm a gamer, a learner, a frustated content creator and a rea
 
 Here are my stats:
 
-## My favorite languajes
+## Most used languajes
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoGismondi&layout=compact&theme=gruvbox)
 
 ## Joke of the day
