@@ -2,8 +2,8 @@
 
 Let me introduce myself ...
 
-I'm Máximo Gismondi, a software/computer technician with knowledge in many areas of IT.  
-Actually, I'm studying Computer Engineer degree at the University of Buenos Aires, Argentina.  
+I'm Máximo Gismondi, a software/computer technician.  
+Actually, I'm studying Software Engineer at the University of Buenos Aires, Argentina.  
 On the other side, I'm a gamer, a learner, a frustated content creator and a really open guy.
 
 Here are my stats:
@@ -16,11 +16,12 @@ Here are my stats:
 
 ## 🔭 I’m currently working on ...
   - [Chess as a service](https://chess-as-service.web.app)
-  - Self created websites website
+  - App for maintenance workers in Argentina
 
 ## 🌱 I’m currently learning ...
-  - Some React
-  - Automation and DevOps
+  - POO in Java
+  - Theory of Algorithms
+  - Computers at low level
   - Clean Code
 
 ## 🏅 Projects I'm proud of
@@ -28,12 +29,12 @@ Here are my stats:
 
 ## 💬 Ask me about ...
   - Python
-  - JS
+  - Go
   - Ideas
 
 ## 😄 Pronouns: ...
   - Max
-  - Capoeira
+  - Maxi
   
 ## 📫 How to reach me: ...
   - <maximogismondi@gmail.com>
