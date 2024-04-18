@@ -1,35 +1,35 @@
-# Hi there 👋
+# Hi everyone 😄
 
 Let me introduce myself ...
 
-I'm Máximo Gismondi, a software/computer technician.  
-Actually, I'm studying Software Engineer at the University of Buenos Aires, Argentina.  
-On the other side, I'm a gamer, a learner, a frustated content creator and a really open guy.
+## 👤 About me
 
-Here are my stats:
+I'm Máximo Gismondi, a software/computer technician currently studying at the University of Buenos Aires, Argentina. I'm in my 3rd year of 5 studying Software Engineering at FIUBA.
 
-## Most used languajes
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoGismondi&layout=compact&theme=gruvbox)
+## 🏢 Current Work
 
-## Joke of the day
-![Jokes Card](https://readme-jokes.vercel.app/api)
+I'm currently working at Asociación de Cooperativas Argentinas, the largest agricultural cooperative in the country, as an IT Service Management (ITSM) specialist using Jira.
 
-## 🔭 I’m currently working on ...
-  - [Chess as a service](https://chess-as-service.web.app)
+## ⚒️ I’m currently working on ...
+  - [Safety and hygiene website](byb.com.ar)
   - App for maintenance workers in Argentina
+  - Own bash implementation
+  - Vigilance system with drones and videocameras
 
 ## 🌱 I’m currently learning ...
-  - POO in Java
-  - Theory of Algorithms
-  - Computers at low level
-  - Clean Code
+  - OOP in Smalltalk
+  - Networking in Rust
+  - Operating Systems
+  - Numeric methods
 
 ## 🏅 Projects I'm proud of
-  -  [Soko Deportes Shop](https://sokodeportes.com.ar)
+  - [Soko Deportes Shop](https://sokodeportes.com.ar): My first ever client
+  - [My grep implementation](https://github.com/maximogismondi/taller-deymonnaz)
 
 ## 💬 Ask me about ...
-  - Python
-  - Go
+  - Data structures
+  - Algorithms
+  - Tips for FIUBA
   - Ideas
 
 ## 😄 Pronouns: ...
@@ -39,3 +39,5 @@ Here are my stats:
 ## 📫 How to reach me: ...
   - <maximogismondi@gmail.com>
   - [Linkedin](https://www.linkedin.com/in/maximogismondi/)
+
+Feel free to explore my repositories and reach out if you have any questions or suggestions!
